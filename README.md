@@ -6,6 +6,6 @@ this repo follow along [Django REST framework](https://www.django-rest-framework
 1. [x] - Serialization
 2. [x] - Requests and responses
 3. [x] - Class based views
-4. [ ] - Authentication and permissions
+4. [x] - Authentication and permissions
 5. [ ] - Relationships and hyperlinked APIs
 6. [ ] - Viewsets and routers
